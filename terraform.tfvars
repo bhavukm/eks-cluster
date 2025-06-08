@@ -6,7 +6,7 @@ subnet_ids = [
   "subnet-0d0078a74545cf987"
 ]
 
-node_instance_types = ["t3.medium"]
+node_instance_types = ["t2.micro"]
 desired_capacity    = 2
 min_size            = 1
 max_size            = 2
